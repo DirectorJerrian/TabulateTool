@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "光荣榜白",
+    "texture": "b7830335-930c-4f8e-b11c-ba7e30384cf0",
+    "atlas": "",
+    "rect": [
+      19,
+      16,
+      257,
+      69
+    ],
+    "offset": [
+      -2.5,
+      -0.5
+    ],
+    "originalSize": [
+      300,
+      100
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

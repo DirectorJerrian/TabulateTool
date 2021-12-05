@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "五队",
+    "texture": "1f459086-1d1f-491f-9f5e-65ea041f250e",
+    "atlas": "",
+    "rect": [
+      65,
+      26,
+      123,
+      54
+    ],
+    "offset": [
+      1.5,
+      -3
+    ],
+    "originalSize": [
+      250,
+      100
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

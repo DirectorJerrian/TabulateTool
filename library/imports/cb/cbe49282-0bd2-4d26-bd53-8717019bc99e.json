@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "荣誉6",
+    "texture": "27e62510-f85d-4b78-bf22-c808a612ca0e",
+    "atlas": "",
+    "rect": [
+      36,
+      36,
+      729,
+      34
+    ],
+    "offset": [
+      0.5,
+      -3
+    ],
+    "originalSize": [
+      800,
+      100
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

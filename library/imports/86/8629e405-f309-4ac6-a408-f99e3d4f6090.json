@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "内功",
+    "texture": "2a7d5f59-4d2f-495e-bb19-dde1adf1cfa3",
+    "atlas": "",
+    "rect": [
+      61,
+      27,
+      129,
+      51
+    ],
+    "offset": [
+      0.5,
+      -2.5
+    ],
+    "originalSize": [
+      250,
+      100
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

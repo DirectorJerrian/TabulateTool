@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "外功",
+    "texture": "8d128e3c-61c8-4d67-8db5-ec52c1dc6a04",
+    "atlas": "",
+    "rect": [
+      57,
+      21,
+      137,
+      60
+    ],
+    "offset": [
+      0.5,
+      -1
+    ],
+    "originalSize": [
+      250,
+      100
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "penglai",
+    "texture": "d4eb2247-f708-48ff-960e-a24cb7fd5b4d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1915,
+      1058
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1915,
+      1058
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

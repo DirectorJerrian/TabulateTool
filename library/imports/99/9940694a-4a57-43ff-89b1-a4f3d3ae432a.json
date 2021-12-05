@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "按团队",
+    "texture": "da58dfb5-6a05-4983-91ff-8e29c702d3ed",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      250,
+      100
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      250,
+      100
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

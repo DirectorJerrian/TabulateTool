@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "竖条",
+    "texture": "c7838ed2-e8ff-4b7b-a931-e456a8b60918",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      5,
+      500
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      5,
+      500
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
